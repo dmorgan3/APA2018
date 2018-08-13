@@ -1,0 +1,63 @@
+Workforce analytics is developing and maturing. These are the 10 major trends for the near future.
+1. From one time to real-time
+Many workforce analytics efforts start as a consultancy project. A question is formulated (“How do our employees experience their journey?”), many people are interviewed, data is gathered, and with the help of the external consultants a nice report is written and many follow up projects to redesign the employee journey are defined.
+A one-time effort is nice, but it might be more beneficial to develop ways to gather more regularly and maybe even real-time feedback from candidates, employees and other relevant groups.
+The survey practice is changing. We see organizations using several approaches:
+•	The classic annual or bi-annual employee survey, for a deep dive.
+•	Weekly, monthly or quarterly pulse surveys to gather more frequent feedback. A few questions, often varying the questions per cycle. Some more advanced pulse survey solutions are adaptive: they ask more questions to people when they sense there are issues (“How was your week?”. If the answer is “Very Good”, the survey is finished, if you answer, “Not so good”, there are some follow-up questions). Pulse surveys can also be easily connected to the important “moments that matter” for the employee experience.
+•	Continuous real-time mood measurement. Innovative solutions in this area are still scarce, especially if you want to measure in a passive non-obtrusive way. Keencorp is an example, they analyze aggregated e-mails and can report on the mood (and risks) in different parts of an organization.
+•	In my article Employee mood measurement trends,  you can find an extensive overview of mood measurement providers.
+•	2. From people analytics to workforce analytics
+•	Currently, the general opinion seems to be that people analytics is a better label than HR analytics.
+•	Increasingly the workforce is consisting of more than just people. Robots and chatbots are entering the workforce. The first legal discussions have started: who is responsible for the acts of the robots?
+•	If we’re also analyzing robots, we’re moving from people analytics towards workforce analytics. Robot wellbeing and robot productivity is a nice domain for HR to claim.
+
+3. More transparency
+This overview of workforce analytics trends cannot be complete without a reference to GDPR. GDPR is fueling a lot of positive developments, one of them being a lot more transparency. About what kind of data is collected, how it is used, and how algorithms are used to make decisions about people.
+The issue of data ownership is related. It is expected that employees will no longer accept that they cannot own their own personal data. Employees need to have the possibility to show their data to their potential next employer as evidence for their productivity and engagement.
+4. More focus on productivity
+In the last years, there has not been a lot of focus on productivity. We see a slow change at the horizon.
+Traditionally, capacity problems have been solved by recruiting new people. This has led to several problems. I have seen this several times in fast growing scale-ups.
+As the growth is limited by the ability the find new people, the selection criteria are (often unconsciously) lowered, as many people are needed fast. These new people are not as productive as the existing crew. Because you have more people, you need more managers. Lower quality people and more managers lowers productivity.
+Another approach is, to focus more on increasing the productivity of the existing employees, instead of hiring additional staff, and on improving the selection criteria.
+Using workforce analytics, you can try to find the characteristics of top performing people and teams, and the conditions that facilitate top performance.
+These findings can be used to increase productivity and to select candidates that have the characteristics of top performers. When productivity increases, you need less people to deliver the same results.
+A related read on this topic are the 3 reasons to stop counting heads.
+5. What is in it for me?
+A lack of trust can influence many workforce analytics efforts. If the focus is primarily on efficiency and control, employees will doubt if there are any benefits for them.
+Overall there is a shift to more employee-centric organizations, although sometimes you can doubt how genuine the efforts are to improve the employee experience.
+Asking the question: “How will the employees benefit from this effort?” is a good starting point for most workforce analytics projects. It also helps to create buy-in, which becomes increasingly important with the introduction of the GPDR.
+6. From individuals to teams to networks
+Many workforce analytics projects today are still focused on individuals. What are the characteristics of our top performers? How can we measure the individual employee experience? How can we decrease absenteeism?
+Earlier, I gave an overview to what extend current HR practices are focused on teams.
+As you can see in the table, most of the practices are still very focused on the individual. Workforce analytics can help to improve the way teams and networks function in and across organizations. The rise of Organizational Network Analysis is one of the promising signs.
+7. Cracks in the top-down approach
+The tendency to implement changes top-down, is still common.
+We like uniformity and standardization. In our central control room, we look at our dashboard, and we know we need to act when the lights are turning from green to orange.
+HR finds it difficult to approach issues in a different way. Performance management is a good example. Changing the performance management process is often tackled as an organization-wide issue, and HR needs to find the new uniform solution.
+In line with the trend called “the consumerization of HR”, employees are expected to take more initiative. Employees are increasingly tired of waiting for the organization and HR, and want to be more independent of organizational initiatives.
+If you want feedback, you can easily organize it yourself, for example with the Slack plug-in Captain Feedback. A simple survey to measure the mood in your team is quickly built with Polly (view: “How to measure the mood in your team with Slack and Polly“). Many employees are already tracking their own fitness with trackers like Fitbit and the Apple Watch.
+Many teams primarily use communication tools as WhatsApp and Slack, avoiding the officially approved communication channels. HR might go with the flow, and tap on to the channels used, instead of trying to promote standardized and approved channels.
+How can workforce analytics benefit from the data gathered by on their employee’s own devices? If it is clear, what the benefits are for employees to share their data, they might be able to help to enrich the data sets and improve the quality of workforce analytics.
+8. Ignoring the learning curve
+In their book “Making HR measurement strategic”, Wayne Cascio and John Boudreau presented an often-quoted picture, with the title “Hitting the “Wall” in HR measurement”. The wall was the wall between descriptive and predictive analytics.
+There are many more overviews with the people analytics maturity levels. Generally, the highest level is predictive analytics.
+Patrick Coolen of ABN AMRO Bank recently mentioned a next level: continuous analytics, and he introduced a second wall, the wall between predictive analytics and continuous analytics.
+As predictive analytics seems to be the holy grail, many HR teams want to jump immediately to this level. Let’s skip operational reporting, advanced reporting and strategic analytics. We can leapfrog, ignore the learning curve, and jump to the highest level in one step.
+For many teams, ignoring the learning curve does not seem to be a sensible strategy. Maybe it is better to learn walking before you start running.
+9. Give us back our time!
+Recently I spoke to HR professionals from big multinationals who were involved in a “Give us back our time” projects.
+In their organizations, the assignment to all staff groups was: stop using (meant was: wasting) more and more time of the employees and managers, please give us some time back!
+An example that was mentioned concerned performance management. In this organization, they calculated that all the work around the performance management process for one employee costed manager and employee around 10 hours (preparation, two formal meetings per year, completing the online forms, meeting with HR to review the results etc.).
+By simplifying the process (no mandatory meetings, no forms, no review meetings, just one annual rating to be submitted per employee by the manager), HR could give back many hours to the organization – to the relief of both managers and employees.
+Big HR systems generally promise a lot. But before the system can live up to the high expectations, a lot of work needs to be done. Data fields must be defined. Global processes must be standardized. Heritage systems must be dismantled.
+This results in a lot of work (and agony), for employees, for managers, for HR and for the implementation partners (who do not mind).
+Workforce analytics can help a lot in the “give-us-time-back” projects, for example by some simple time-measurement. Measure the time a sample of managers, employees, and HR professionals spend on different activities, and estimate the value these activities optimizes the core activities of the organization (e.g. serving clients and bringing in new clients).
+10. Too high expectations
+The expectations of workforce analytics are often too high. Two elements must be considered.
+In the first place, human behavior is not so easy to predict, even if you have access to loads of people data.
+Even in domains where good performance is very well defined and where a lot of data is gathered inside and outside the field, as for example in football, it is very difficult to predict the future success of young players.
+Secondly, the question is to what extend managers, employees and HR professionals behave in a rational way. All humans are prone to cognitive biases, that influence the way they interpret the outcomes of workforce analytics projects. Some interesting articles on this subject are why psychological knowledge is essential to success with people analytics, by Morten Kamp Andersen, and The psychology of people analytics, written by myself.
+A more general thought: what if you replaced ‘Workforce analytics’ with ‘Science’? What is the role of science in HR? The puzzle is, that there are many scientific findings that have been available for a long time but that are hardly used in organizations.
+Example: it has been proven repeatedly, that the (unstructured) interview is a very poor selection instrument.
+But still, most organizations still rely heavily on this instrument (as people tend to overestimate their own capabilities). Why would organizations rely on the outcomes of workforce analytics, when they hardly use scientific findings in the people domain?

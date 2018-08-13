@@ -1,0 +1,29 @@
+question_number,question_short,question_category
+Q1,Degree of autonomy,Job
+Q2,Pride in work that I do,Job
+Q3,Focused on my work,Job
+Q4,My work contributes to company strategy,Job
+Q5,Clear goals and expectations,Job
+Q6,My work is meaningful,Job
+Q7,Opportunities to develop in my role,Job
+Q8,Resources to do my job,Job
+Q9,Healthy work-life balance,Job
+Q10,Would recommend company to friends/family,Company
+Q11,Commitment to company,Company
+Q12,Clear and effective executive strategy,Company
+Q13,Would recommend company to friends/family,Company
+Q14,Performance evaluation system is fair,Company
+Q15,Leader communication,Company
+Q16,Optimistic about the future,Company
+Q17,Commitment to company,Company
+Q18,Company culture is motivating,Company
+Q19,Company is a good corporate citizen,Company
+Q20,Company supports my well-being,Company
+Q21,Leader make timely decisions,Company
+Q22,Manager supports my development,People
+Q23,Manager provides constructive feedback,People
+Q24,Manager removes obstacles,People
+Q25,Effective team collaboration,People
+Q26,Able to communicate openly with leaders,People
+Q27,Respected for who I am,People
+Q28,Manager recognizes the team and individuals,People

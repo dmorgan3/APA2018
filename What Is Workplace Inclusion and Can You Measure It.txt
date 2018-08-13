@@ -1,0 +1,41 @@
+Can you remember a time without a headline about inequality in our world today? It seems like examples of inequality pop up in every corner of our society, and businesses are trying to get ahead of the problem. Take Starbucks for example: they recently closed all of their 8,000 company-owned stores nationwide to give 175,000 employees racial-bias education in response to a shocking incident at a Philadelphia store in April. Starbucks is not alone. One study examined over 10,000 companies and found that eight out of 10 - some 8,000 companies - have a gender pay gap. The UK now requires any company with more than 250 employees to report data on their gender pay gaps.
+With all the talk about diversity and inclusion, we decided to devote our recent New York Strategic HR Analytics Meetup to explore the topic and focus especially on inclusion because of all the apparent confusion over what, exactly, 'inclusion' means.
+
+What is 'Inclusion'?
+We asked a panel of experts who brought together multiple perspectives on the topic of what inclusion means, and here's what they had to say:
+"Many people conflate inclusion with diversity"
+•	Mary Young: Principal Researcher at The Conference Board, expert on workplace inclusion
+"Diversity is being invited to the party. Inclusion is being asked to dance."
+•	Emily Hsieh: Co-Founder & CEO at Allie, a chatbot that helps build inclusive culture by interrupting bias as it happens
+"Treating people equally with empathy, respect, dignity, and compassion"
+•	Ashley Kircher, CEO of Minda, an immersive/VR training tool for diversity and inclusion
+"It is difficult to define, but you know it when you see it"
+•	Solange Charas PhD, Charas Consulting, expert on pay equity and inclusion analytics
+"Inclusion is giving people equal opportunities to thrive and succeed in an organization"
+•	Philip Arkcoll, Founder at Worklytics, workforce analytics platform
+Together, these capture key elements of inclusion in the workplace, and the panel raised some important themes, like empathy and psychological safety. A company culture that doesn't value and reinforce empathy is at high risk of bias - intentional or not - against groups of its employees. How can a company be inclusive if its people do not try to imagine what it might be like in someone else's shoes?
+Psychological safety is critical. People need to feel safe and trust that they can express themselves without fear of negative consequences to their status or career. Research shows that diverse teams are more innovativeand contribute to better business outcomes. But the best business advantages of diversity cannot be realized without inclusion.
+These themes might seem obvious - but if they were obvious to everyone, inclusion would not be such a widespread problem, would it?
+
+ 
+How Can We Measure 'Inclusion'?
+So, how do we know if a company is succeeding? How do we know if there is a problem around workplace inclusion? How can we measure if inclusion strategies are working, and when we reach an optimal level of full inclusion?
+The answer: There are a variety of measures across three broad categories of data that reflect dimensions of inclusion:
+•	Employee Experience. Are companies soliciting anonymous feedback about how employees feel? Are they even talking about inclusion? Do they feel like they belong at their organization?
+•	Demographic. Is there inequity in pay, position level, or promotion rate by gender, ethnic background, or other demographic segment? Does baseline data show any evidence that some groups are advantaged over others?
+•	Behavior. Do people have equal opportunities to succeed? Are people included equally on priority initiatives, working documents, and meetings with key leadership?
+These dimensions can be measured using a variety of approaches, ranging from the old-fashioned methods to cutting-edge tech tools. For example, surveys are basic but useful approaches to gauge employee experience by including targeted questions. Now, more sophisticated tools, like Slack-based chatbots, are available that allow real-time feedback to raise issues that might otherwise go undetected, provide tips on how to modify behavior, and aggregate data to monitor company performance.
+Technology has really opened the door to measuring behavior and employee interactions that can detect whether patterns of behavior are inclusive. For example, tools can now measure how opportunities differ by gender or ethnic background by examining the pattern of interactions among employees, such as collaborations on project documents, electronic communications, and scheduled calendar meeting. Are collaborations with senior management, participation on priority projects, and involvement in important meetings the same for women and men when controlling for other factors like job level or tenure? Are patterns of behavior consistent with the perceptions of inclusion, or is there hidden bias?
+What actions to take to create a more inclusive workplace depend on the issues that are uncovered. Here, too, tools are available to train employees, ranging from traditional training sessions to virtual reality-based empathy training.
+
+What Analysis Of Inclusion Would You Choose First?
+Our panel offered a broad consensus that there is a typical hierarchy of analyses:
+1.	Start with gathering and listening to employee feedback, and exploring baseline demographic data to see where inequalities might exist.
+2.	Build on employee experience and baseline demographic information with data on workplace behavior to see where people are getting the same opportunities to thrive, and where they are not.
+The best analyses tie the results to financial and business outcomes to underscore the value of devoting time and resources to creating a more inclusive workplace.
+
+ 
+The Future of Inclusion
+The bad news is that lack of inclusion is a real problem in the workplace. The good news is that the future looks promising.
+A national conversation about inclusion is happening. Governments are beginning to require transparency and reporting on diversity, inclusion, and inequity in the workplace. People on social media are beginning to demand it, now. Companies see diversity and inclusion as a priority, and take pains to improve their brand by showcasing the steps they take. To meet these growing demands, creative and sophisticated new solutions are being developed to measure how included employees feel, and measure actual behavior to assess levels of inclusion throughout the workplace, and train employees to be more empathetic and inclusive.
+The future looks bright!

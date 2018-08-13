@@ -1,0 +1,104 @@
+One of the most exciting trends in people analytics is the rapid growth of Organisational Network Analysis (ONA), which whilst not new is witnessing a resurgence thanks to developments in technology, new ways of working and changing business requirements.
+When I meet with people analytics leaders, ONA regularly crops up in the conversation as one of the techniques that they have either already begun to use or plan to deploy within their organisations.
+Indeed, research conducted by Insight222 towards the end of 2017 (see Figure 1 below) found that ONA was the analytical technique that people analytics leaders most wanted to learn more about.  
+ 
+Figure 1: Organisational Network Analysis is the technique that HR & People Analytics leaders most want to learn more about (Source: Insight222)
+The role of ONA in people analytics was the topic of my presentation at UNLEASH in Las Vegas on 15 May. The slides I used during my speech are included below. The purpose of this article is to answer the following questions I regularly get asked about ONA:
+•	What is ONA?
+•	Why is ONA growing in importance?
+•	What is ‘Active’ and ‘Passive’ ONA? Which one should we use? Can we use both?
+•	What can we use ONA for?
+•	What case studies on ONA are available?
+•	Where can I find out more about ONA?
+
+WHAT IS ONA?
+If you Google ‘Organisational Network Analysis’, you will uncover a lot of dry and technical descriptions of what ONA is, which are mostly a variation of “Organisational Network Analysis is a structured way to visualise how communications, information and decisions flow through an organisation” (which came from Deloitte).
+I prefer Michael Arena’s description in his excellent recent podcast with Al Adamsen, where the Chief Talent Officer of GM defined ONA as providing “a new lens to evaluate how people show up in an organisation."
+ONA provides a new lens to evaluate how people show up  in an organisation
+Similarly, in his article ‘What is ONA?’, Professor Rob Cross, arguably the world’s foremost expert on the subject, explains that “ONA can provide an x-ray into the inner workings of an organisation — a powerful means of making invisible patterns of information flow and collaboration in strategically important groups visible”. In the same article, Cross provides a perfect example to illustrate this viewpoint and how ONA enables you to see what is going on in a company.
+ 
+Figure 2 - An example of the insights offered through ONA (Source: Rob Cross)
+The example in Figure 2 is of an ONA project undertaken by Cross with the exploration and production division of a large petroleum organisation. It identifies mid-level managers critical to information flow such as Mitchell, who is the only point of contact between members of the production division and the rest of the network. It also highlights that the Senior Vice President Mares is peripheral to the network and is essentially an untapped and underutilised resource, whilst the Production team is isolated and separated from the network. None of this is visible from the rickety old org chart.
+ 
+WHY IS ONA GROWING IN IMPORTANCE?
+The way organisations work continues to shift from the traditional hierarchies and bureaucracies prevalent in the 20th Century to more agile enterprises founded upon teams and networks of teams. ONA can provide a fresh lens into how these teams and networks really collaborate and behave, and how work really gets done.
+Moreover, ONA provides insights that can unlock innovation, drive productivity and improve performance whilst at the same time enhancing employee experience and wellness. These are all areas that are front-of-mind for CEOs and business leaders as they seek to create the climate and culture that drives competitive advantage and business success.
+As Greg Newman writes here, ONA adds dynamic ‘Social Capital’ to the typically static ‘Human Capital’ data that HR and people analytics teams have traditionally had to rely upon. As Figure 3 below illustrates, social capital includes networks and relationships that employees build to help them get work done. These cover a diverse range of areas such as networks for expertise, innovation, social, learning, strategy and day to day work. Social capital has a big bearing on individual, team and organisational performance, which is a significant reason why interest in ONA has surged and why this is the technique that people analytics leaders most want to learn more about.
+ 
+Figure 3: The importance of social capital in ascertaining employee value (Source: TrustSphere)
+WHAT IS ‘ACTIVE’ AND ‘PASSIVE’ ONA? WHICH ONE SHOULD WE USE? CAN WE USE BOTH?
+As highlighted earlier in this article, ONA is not new. The likes of Rob Cross have been pioneering ‘Active’ ONA for over 20 years and made significant strides in progressing the science forward.
+What is ‘new’ is the addition of ‘Passive’ ONA, which thanks to rapid advances in technology has helped propel a renewed interest in the subject whilst in parallel expanding and advancing the field. Much of the subsequent debate seems to have centred on whether organisations should adopt an Active or Passive strategy, whereas as is invariably the case in either/or debates like this perhaps a combination of both approaches should be employed.
+For the uninitiated, ‘Active’ ONA surveys enable organisations to gain an understanding of how employees (or groups of employees) feel about their colleagues, their relationships and their place within the organisation. ‘Passive’ ONA provides a different and complementary view as it runs continuously - often across the entire company. It provides an objective, unbiased view of how people are actually working and collaborating. It can also be used to automatically measure changes in network behaviours after an initiative or corporate event has taken place, such as following an M&A or significant restructure.
+ 
+Figure 4: Active vs. Passive ONA - data sources, key characteristics and vendor landscape (Source: David Green)
+From speaking to experts in the ONA space, I believe that combining Active and Passive ONA is the way forward. Using survey based Active ONA alone may produce great insights and results, but it can take significant investment in time and resources, is ‘point-in-time’ and at risk to low response rates. Adding Passive ONA to the mix adds scale, continuous and real-time capability. When combined, the two sets of data provide a revolutionary 360-degree view both to understand how people feel andwhat they do.
+When I spoke to Manish Goel, CEO of TrustSphere, about this he confirmed that many of his customers are using both active and passive data sources. As an example, TrustSphere customers that have deployed ONA to improve leadership development are using “Active surveys to identify those key leaders who exhibit the types of behaviours that organisations are looking to replicate. Passive ONA is then used to continually measure these behaviours in the long run and measure the ongoing impact that these leaders have on their teams and their wider informal networks. This creates an array of insights and coachable moments that were previously invisible.”
+PRIVACY AND GDPR
+Whether you decide to use active, passive or both one big consideration is around privacy, not least with the advent of GDPR, which if you needed reminding comes into force on 25 May 2018. As with any people analytics project – and particularly with regards to using passive data sources such as email metadata, this means clear communication with employees (what data do you want to use, for what purpose and what is the benefit to employees), working closely with legal, IT and employee representative groups and establishing clear governance around data collection, access and storage, communication, opt in/out, anonymity etc.
+WHAT CAN I USE ONA FOR?
+Firstly, let’s bust the myth that ONA is all about pretty network visualisations solely for the purpose of highlighting the key influencers within an organisation. Whilst it does help you identify positive and negative agents of change within your company, ONA is no one trick pony.
+Figure 5 below highlights a sample of use cases for ONA in an organisation – there are many more. A later article will go into more depth about each of these use cases and others. The key premise here – as with any people analytics project, is to start with the business question and look to apply ONA where appropriate to help you identify actionable insights.
+
+WHAT CASE STUDIES ON ONA ARE AVAILABLE?
+This is a question I am often asked, which not only provides evidence of the huge interest in ONA but also that the technique (at least when it comes to passive) is relatively new. There are plenty of case studies available if you look closely enough – particularly in the active category (check out the articles by Rob Cross on LinkedIn here as an example). When it comes to examples in the passive space most are currently provided by vendors, but I expect this to change as the practice matures and organisations feel ready to share their stories.
+Four case studies are provided below:
+1. GENERAL MOTORS – INNOVATION
+One of the most powerful examples of ONA is how GM used it to stimulate innovation and effectively disrupt themselves from the inside. The case study and the academic research behind it is documented in the wonderful MITSMR article How to Catalyse Innovation in Your Organisation, which was co-written by amongst others Rob Cross and Michael Arena.
+The article outlines the different roles brokers, connectors and energisers (see Figure 6) play in a network in discovering, developing and diffusing innovation within an organisation and essentially how to disrupt from the inside.
+ 
+Figure 6: How to catalyse innovation within your organisation (Source: MIT Sloan Management Review) By analysing the connections between employees GM was able to determine how to bring together the people most likely to have the highest impact on innovation and product design to work together on projects and teams. They then used a variety of methods to help create the environment most conducive for ideas to be created and shared, which is known as the ‘Adaptive Space’ (which is also the title of Michael Arena’s forthcoming book).
+The MITSMR article outlines the methods GM used once it had identified and brought together the group of employees. This included:
+•	Co-Lab – an event running for a maximum of 24 hours involving up to 60 people competing in small teams who pitch ideas to executives. A Co-Lab operates on the premise that sometimes the best solutions emerge when you have the least time.
+•	Summit – up to 300 individuals acting as brokers and connectors from across functions, using design-thinking methods to share, create, and build solutions.
+•	Tipping Forward event, typically comprised of 100 to 200 individuals, which provides the adaptive space necessary to openly share the many successes that have already been applied locally, and then tap into the passion of energisers to amplify these successes across the broader enterprise
+This process, which let’s remind ourselves again was initiated by HR, has enabled GM to launch innovative products such as Maven and Book by Cadiliac, as well as initiate a new process to improve buyer-supplier relationships.
+2. GLOBAL CONSUMER GOODS COMPANY & TRUSTSPHERE – LEADERSHIP DEVELOPMENT PROGRAM
+A common criticism of leadership development programs is that evaluating impact can be challenging as changes in the behaviour of participants is often subtle, invisible and hard to quantify. This example of how TrustSphere worked in unison with a provider delivering a leadership development program to R&D teams in five countries of a Fortune 100 consumer goods company illustrates how ONA can help shine a new light on this evaluation process.
+Elements of the program included development areas for participants in key areas of leadership such as their network strength and reach, their influence, their leadership style and how they and their teams communicate and collaborate together and with the rest of the business.
+TrustSphere worked with the provider delivering the program and the organisation itself to evaluate participants before the program began and then at two-month intervals during the eight-month program so delegates and the trainer could evaluate progress and identify areas for further development personalised to each participant of the program. Figure 7below provides an example of the report provided to participants throughout the program and the elements covered.  
+ 
+Figure 7: Using ONA to measure and accelerate the impact of a leadership development program (Source: TrustSphere)
+The impact of the initiative has been significant, including evidence of measurable behavioural change by participants. Providing objective data about their own networks resulted in participants proactively building these networks across the organisation over the course of the program. TrustSphere’s network analysis acted as a “mirror” which helped participants reduce bias and use data to understand where to spend time building and enhancing their key relationships across the organisation.
+The reports were considered so valuable by participants and the program considered so useful by the company, that there are now plans to expand the service to broader groups across the company.
+A key next step of evaluation will also be to look at the impact of the initiative on the business such as whether the speed, quality and financial impact of R&D innovation has improved.
+3. EUROPEAN RETAIL BANK & HUMANYZE – NETWORK STRENGTH & BRANCH PERFORMANCE
+Like Rob Cross, Ben Waber is an invaluable resource for articles and case studies on ONA and people analytics. The video below and accompanying article in re:Work recounts an example of when Ben’s company Humanyzeconducted an analysis of the differing branch performances of a European retail bank.
+As Ben describes, despite employees in each branch having the same training and similar demographics, performance was very different. Humanyze used their digital badges to test whether there was a correlation between network strength and branch performance. The results were illuminating. Perhaps unsurprisingly, the highest-performing branches had the most cohesive, interconnected social networks.
+The results for lower-performing branches were more interesting. In one example, new hires were being excluded from what was a tightly-knit employee group, which led to a program to better integrate new hires being implemented. Whilst another example, saw two distinct networks within a branch – one on the first floor, the other on the second. Despite it taking only a matter of seconds to walk from one floor to another, the study suggested no one did it. As a result of this insight, the bank shifted away from multilevel branches where they could and rotated desks more frequently elsewhere.
+The impact on the bottom line was impressive. A/B testing saw the 50% of branches where the new procedures were implemented enjoying an increase in loan sales of 11% compared to the branches where nothing was changed.
+
+4. MICROSOFT – MEASURING MANAGER EFFECTIVENESS
+Microsoft acquired VoloMetrix back in 2015 and have since integrated what is now known as Workplace Analytics into its Office 365 suite. In this article, Dawn Klinghoffer who leads the people analytics function at Microsoft, describes how they ran a project that combined data from Workplace Analytics (email and calendar meta data, not content) with engagement and business data to better understand manager effectiveness.
+The key findings, which are described by Dawn in the article and summarised in Figure 8 below, in part validated hypotheses that Microsoft had long believed but also contained some unexpected results too.
+ 
+Figure 8 Using ONA to measure manager effectiveness (Source: Dawn Klinghoffer)
+As Dawn outlines in her article, the insights the project revealed are helping Microsoft develop guiding principles and coaching programs for managers that drive team engagement and business performance. This is another example of how ONA can reveal hitherto hidden insights that can be used to improve productivity and employee experience.
+
+WHERE CAN I FIND OUT MORE ABOUT ONA?
+There’s a wealth of articles and case studies available on ONA, which illustrates the sheer breadth of what can be achieved. A selection of resources is provided below. Please feel free to suggest additional resources and particularly case studies in the comments section of this article:
+•	Rob Cross – What is ONA?
+•	Josh Bersin – Deloitte HR Technology Disruptions 2018 Report
+•	Greg Newman - Why Informal networks are set to revolutionize HR and People Analytics
+•	Ryan Fuller, Nina Shikaloff, Renee Cullinan and Shani Harmon - If You Multitask During Meetings, Your Team Will, Too
+•	Michael Arena, Rob Cross, Jonathan Sims, and Mary Uhl-Bien - How to Catalyze Innovation in Your Organization
+•	Chloé Meredith – Answering 5 frequently asked questions about Organizational Network Analysis
+•	John Boudreau & Rob Cross - It’s All Connected: Unearthing The Potential in Hidden Collaborative Networks
+•	Philip Arkcoll - Organizational Network Analysis: Going Beyond Email
+•	Arun Chidambaram, Antony Ebelle-ebanda and Stela Lupushor – The Practical Applications of Organizational Network Analysis
+•	Stephen Turban, Laura Freeman and Ben Waber - A Study Used Sensors to Show That Men and Women Are Treated Differently at Work
+•	Rob Cross, Reb Rebele and Adam Grant – Collaborative Overload
+•	Suvarna Joshi - Measuring Diversity and Inclusion using Organizational Network Analysis
+•	Madhura Chakrabarti - How Organizational Network Analysis improved Sales Productivity & Effectiveness
+•	Richard Santos Lalleman - How to Rethink Change with the Three Percent Rule
+•	Alia Crocker, Rob Cross and Heidi K. Gardner - How to Make Sure Agile Teams Can Work Together
+•	Al Adamsen and Michael Arena – Adaptive Space: The PAFOW Podcast
+•	Al Adamsen and Rob Cross – ONA: The PAFOW Podcast
+•	Jacob Morgan and Arun Chidambaram - Everything You Need To Know About People Analytics from Pfizer’s Head Of Talent Analytics
+FINAL THOUGHTS
+Given the possibilities offered through ONA, it is hardly surprising that interest levels are so high and that organisations are increasingly embarking on people analytics projects that include at least an element of ONA – whether it is active, passive or both. I expect this trend to continue and look forward to sharing more great work in this space as the field continues to mature.
+
+THANK YOU
+My interest in ONA is being sated through my recent appointment as a Board Advisor at TrustSphere. I’d like to thank Manish Goel, Greg Newman and Priya Bagga for their support in writing this article.
+Thanks also to Kat Khramova of UNLEASH for asking me to prepare a speech to ‘demystify ONA’ for the Las Vegas show. It forced me to learn more about a topic that had already become a passion.
+Finally, thank you to the other speakers I had the privilege of introducing on the Smart Data breakout at UNLEASH: Charlotte Nagy, Daniel Morales, Madelyn Torres Nichols, Chris Louie, Daniel Shapero, Todd Horton, Lexy Martin, Gary Blake, Christopher Eamiguel, Sheri Feinzig, Mary Ellen Slayter and Jason Pagan. Together, I believe we ably demonstrated the promise and variety of ways in which people analytics is providing quantifiable value in terms of improved business outcomes and better employee experience and wellbeing. Long may it continue.

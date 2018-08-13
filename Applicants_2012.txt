@@ -1,0 +1,65 @@
+name	dci sex	dci race	codetitle	sel status	dci location	JC Applying for	Job Title Applying for	Disposition Code/Reason	Internal/External
+"Andrews, Shawn D."	M	W	029 E/M Technician C	selected	Elizabeth City	029	E/M Technician C	internal hire	Internal
+"Athens, Loren"	M	W	100 Senior Engineer	not selected	Columbia	100	Senior Engineer	another more qualified candidate	External
+"Berman, Joshua"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Binks, Andrew T."	M	W	100 Senior Engineer	selected	Columbia	100	Senior Engineer	hired	External
+"Brown, Mark T."	M	W	161 Senior Procurement Subcontract Specialist	selected	Columbia	161	Senior Procurement Subcontract Specialist	hired	External
+"Chan, Stephen C."	M	A	100 Senior Engineer	selected	Columbia	100	Senior Engineer	internal hire	Internal
+"Clark, Joshua"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Cromer, Kevin R."	M	B	013 Associate Engineer	selected	Columbia	013	Associate Engineer	hired	External
+"Curran, Pat"	M	W	104 Sr. ILS Engineer B	not selected	Columbia	104	Sr. ILS Engineer B	another more qualified candidate	External
+"Danneker, Jesse S."	M	W	135 Aerostat Flight Director	selected	Elizabeth City	135	Aerostat Flight Director	hired	External
+"Deatrick, Thomas J."	M	W	027 E/M Technician A 	selected	Elizabeth City	027	E/M Technician A 	internal hire	Internal
+"Dixon, Fabian "	M	B	027 E/M Technician A 	selected	Elizabeth City	027	E/M Technician A 	internal hire	Internal
+"Dyson, Marc"	M	B	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Edmonds, Thomas"	M	W	161 Senior Procurement Subcontract Specialist	not selected	Columbia	161	Senior Procurement Subcontract Specialist	another more qualified candidate	External
+"Eisler, Richard"	M	W	100 Senior Engineer	not selected	Columbia	100	Senior Engineer	another more qualified candidate	External
+"Galla, Stephen"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Gates, Stephen"	M	W	100 Senior Engineer	not selected	Columbia	100	Senior Engineer	another more qualified candidate	External
+"Giddens, Warren"	M	B	161 Senior Procurement Subcontract Specialist	not selected	Columbia	161	Senior Procurement Subcontract Specialist	another more qualified candidate	External
+"Gilhousen, John"	M	W	017 Business Development Manager	not selected	Columbia	017	Business Development Manager	another more qualified candidate	External
+"Green, Kristan"	M	B	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Greico, Kevin H."	M	W	012 Aerostat Technician C	selected	Elizabeth City	012	Aerostat Technician C	internal hire	Internal
+"Haggard, David"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Hall, Ryan"	M	W	029 E/M Technician C	selected	Elizabeth City	029	E/M Technician C	declined offer	External
+"Hartgrove, Joseph P."	M	W	033 Electronics Technician A	selected	Columbia	033	Electronics Technician A	internal hire	Internal
+"Herrman, Robbie F."	M	W	034 Engineer	selected	Columbia	034	Engineer	internal hire	Internal
+"Hertel, Stephen R."	M	W	025 Deputy Program Manager	selected	Columbia	025	Deputy Program Manager	hired	External
+"Hoover, Eric A."	M	W	017 Business Development Manager	selected	Columbia	017	Business Development Manager	hired	External
+"Hunter, Thomas"	M	W	111 Senior Technical Writer/Trainer	not selected	Elizabeth City	111	Senior Technical Writer/Trainer	another more qualified candidate	External
+"Hymiller, Cathy"	F	W	031 Electronics Assembler B	not selected	Columbia	031	Electronics Assembler B	another more qualified candidate	External
+"Jones, Jr., Milton J."	M	W	159 Logistic Specialist B	selected	Columbia	159	Logistic Specialist B	internal hire	Internal
+"Kheiman, Tamara"	F	W	031 Electronics Assembler B	not selected	Columbia	031	Electronics Assembler B	another more qualified candidate	External
+"Kisonis, Leonard J."	M	W	150 E/M Technician B	selected	Elizabeth City	150	E/M Technician B	internal hire	Internal
+"Koger, William Brian"	M	W	025 Deputy Program Manager	selected	Columbia	025	Deputy Program Manager	hired	External
+"Lambert, Ken"	M	W	161 Senior Procurement Subcontract Specialist	not selected	Columbia	161	Senior Procurement Subcontract Specialist	another more qualified candidate	External
+"Long, Mark V."	M	W	012 Aerostat Technician C	selected	Elizabeth City	012	Aerostat Technician C	internal hire	Internal
+"Lusung, Alberto P."	M	A	031 Electronics Assembler B	selected	Columbia	031	Electronics Assembler B	hired	External
+"McDaniels, Woody R."	M	W	029 E/M Technician C	selected	Elizabeth City	029	E/M Technician C	internal hire	Internal
+"McFadden, Douglas "	M	W	111 Senior Technical Writer/Trainer	selected	Elizabeth City	111	Senior Technical Writer/Trainer	hired	External
+"Millan, Carlos E."	M	H	164 Sr. Contracts Representative A	selected	Columbia	164	Sr. Contracts Representative A	internal hire	Internal
+"Miller, Francis"	M	W	104 Sr. ILS Engineer B	selected	Columbia	104	Sr. ILS Engineer B	declined offer	Internal
+"Morua, Katherine"	F	H	034 Engineer	selected	Columbia	034	Engineer	internal hire	Internal
+"Ossinger, Daran"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Patel, Kalpesh H."	M	A	104 Sr. ILS Engineer B	selected	Columbia	104	Sr. ILS Engineer B	internal hire	Internal
+"Patel, Shameek V."	M	A	013 Associate Engineer	selected	Columbia	013	Associate Engineer	internal hire	Internal
+"Peterson, Mark E."	M	W	150 E/M Technician B	selected	Elizabeth City	150	E/M Technician B	internal hire	Internal
+"Pruette, Courtney"	F	W	161 Senior Procurement Subcontract Specialist	not selected	Columbia	161	Senior Procurement Subcontract Specialist	another more qualified candidate	External
+"Riston, Steve"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Ross, Warren"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Sabelhaus, Sean"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Sarpong, Ben"	M	B	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Savino, Nick"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Schlechta, Christopher"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Shumar, Robert C."	M	W	156 Associate Field Engineer	selected	Columbia	156	Associate Field Engineer	hired	External
+"Stangle, Ryan"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Stanley, Dawn M"	F	W	161 Senior Procurement Subcontract Specialist	selected	Columbia	161	Senior Procurement Subcontract Specialist	hired	External
+"Threat, Ronald"	M	B	031 Electronics Assembler B	not selected	Columbia	031	Electronics Assembler B	another more qualified candidate	External
+"Urig, Andrew"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Valentine, Joshua"	M	W	013 Associate Engineer	not selected	Columbia	013	Associate Engineer	another more qualified candidate	External
+"Vernoia, Michael"	M	W	104 Sr. ILS Engineer B	selected	Columbia	104	Sr. ILS Engineer B	declined offer	External
+"Von Eisentrout, Germany"	M	W	031 Electronics Assembler B	not selected	Columbia	031	Electronics Assembler B	another more qualified candidate	External
+"Wagner, Joshua B."	M	W	013 Associate Engineer	selected	Columbia	013	Associate Engineer	hired	External
+"Wargo, Stephen B."	M	W	159 Logistic Specialist B	selected	Columbia	159	Logistic Specialist B	internal hire	Internal
+"Wilde, Michael"	M	W	159 Logistic Specialist B	not selected	Columbia	159	Logistic Specialist B	another more qualified candidate	External
+"Wiley, Michael S."	M	W	135 Aerostat Flight Director	selected	Elizabeth City	135	Aerostat Flight Director	hired	External

@@ -1,0 +1,28 @@
+“People analytics” is a term that gets a lot of people (myself included!) very excited. But the idea of people analytics isn’t exactly new anymore. So the question now is, how are we using people data to uncover important insights and then actually act on them?
+This week on #WorkTrends, we’re talking to a people-analytics pro, Kate Hastings, senior director of insights at LinkedIn, about how HR is using people data to eliminate bias, close the gender gap and drive better outcomes.
+You can listen to the full episode below, or keep reading for this week’s topic. Share your thoughts with us using the hashtag #WorkTrends.
+Welcoming the Age of People Analytics
+Hastings says that just seeing job descriptions about people analytics is exciting. Her background is in management consulting, and she remembers the first time she saw the term, in a job description at Gartner. “Not many people get inspired by job descriptions, but it talked about using an organization’s data to make better people decisions and how important that was to the overall corporate strategy and bottom line,” she says.
+“I was so inspired, because I felt like this was an underused opportunity for analytics.” She knew she could bring her analytical mindset to make an impact on issues she cared about — making work a great experience, helping people be more productive and making organizations more successful through people.
+But she admits that she hadn’t often thought about “data” and “HR” in the same sentence: “When I had worked with HR in the past, that hadn’t been the most data-driven part of the organization, and I felt like there was really an opportunity to bring that data mindset and make better decisions for everyone.”
+The real draw of people analytics is making more fair, consistent decisions about people at work, she says: “It feels like we’re all on the same page.” In other words, math evens the playing field.
+Using Data to Address Big Challenges
+Big challenges like diversity, the gender gap and bias in hiring are on leaders’ minds, and Hastings says people analytics can help. “In a recent LinkedIn survey, we asked recruiting leaders about the trends they’re most interested in, and diversity was number one. People are really thinking about how we can make our organizations stronger.”
+She says the first step is quantifying the problem. For example, she says, “we’ve always known there was an issue in terms of the gender gap in leadership, and the big step forward is that we’re able to quantify it. That’s allowing us to do all kinds of things toward solving it. We’re nowhere near solving it yet, but we have a sense of how large the problem is and we understand some of the opportunities.” She points to metrics about what happens when an organization has more gender balance and diversity: There’s a positive correlation to better performance. Once we can quantify both the problem and the potential outcome of making major change, we can start to build programs to get us there.
+The Next Phase: Breaking Down Silos
+Hastings has seen a change happening in HR over the past 15 years. HR has followed the lead of other functions, like marketing, to pay closer attention to collecting and studying data and making more informed decisions.
+But we still have a long way to go. She points to a recent Deloitte study that shows only 8 percent of companies feel like they have usable data about talent.
+“I think the next frontier is breaking down silos,” she says. Instead of thinking about a very compartmentalized set of activities (“First we recruit you, then we onboard you, then we make sure your rewards are what they should be and then we train you”), she hopes HR can think about the entire end-to-end journey.
+Part of breaking down those silos is working across functions. “McKinsey has been talking about how the CHRO and the CFO and the CEO need to work together as a group of three to really think about how to implement change in their organizations, and I love the idea of people-first organizations working in that way,” she says.
+
+Cognitive Recruiting
+Technology is changing everything. Although there is still much debate about the actual pace of change in talent acquisition, most people would agree that the change taking place is fundamental. A good way to sense check what is really happening is to explore how one of the companies who is architecting the AI revolution is changing its own approach to talent acquisition.
+My guest this week is Kevin Blair, Global VP of Talent Acquisition at IBM. In our interview, Kevin shares insights into how IBM is transforming their talent acquisition by applying their own technology and he also talks about the agile approach they are using to make it happen.
+In the interview we discuss:
+• IBM’s recruiting challenges in an ever more competitive market
+• Competitive advantage via differentiated thinking
+• Sourcing using skills and success profiles
+• Helping candidates navigate opportunities using Watson AI as opposed to binary one directional searching
+• Creating deeper engagement via technology in the onboarding process
+• Agile talent acquisition methodologies and design thinking for co-creation
+Kevin also shares his thoughts on the future role of recruiters in a world dominated by technology.
